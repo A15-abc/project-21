@@ -1,0 +1,4 @@
+Follow c21
+Use class Wall for you ground, left wall, right wall objects
+Use the code for ball in sketch.js file to create the 'crumpled paper'
+'function keyPressed(){if(keyCode === UP_ARROW){Matter.Body.applyForce()}}' outside fnction draw in sketch.js, follow c21 code for hforce function
